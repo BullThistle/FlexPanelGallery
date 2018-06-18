@@ -1,3 +1,3 @@
-Project five for the vanilla JavaScript 30 day challange.
+Project five for the vanilla JavaScript 30 day challenge.
 
-https://bullthistle.github.io/FlexPannelGallery
+https://bullthistle.github.io/FlexPanelGallery/
